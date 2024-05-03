@@ -4,13 +4,7 @@ This module provides a function to generate the Fibonacci sequence up to the nth
 
 def fibonacci(n):
     """
-    Generate the Fibonacci sequence up to the nth term.
-
-    Args:
-        n (int): The number of terms to generate in the Fibonacci sequence.
-
-    Returns:
-        list: A list containing the Fibonacci sequence up to the nth term.
+    Code 2
     """
     if n <= 0:
         return []
